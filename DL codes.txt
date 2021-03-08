@@ -1,0 +1,36 @@
+A - Motorcycle
+	L1 - Two wheels with a maximum design speed not exceeding 50 kph
+	L2 - Three wheels with a maximum design speed not exceeding 50 kph
+	L3 - Two wheels with a maximum design speed exceeding 50 kph
+
+A1 - Tricycle
+	L4 - Motorcycle with side cars with a maximum design speed exceeding 50 kph
+	L5 - Three wheels symmetrically arranged with a maximum speed exceeding 50 kph
+	L6 - Four wheels whose unladen mass is not more than 350kg with maximum design speed not exceeding 45 kph
+	L7 - Four wheels whose unladen mass is not more than 550kg with maximum design speed not exceeding 45 kph
+
+B - Light Passenger Car
+	M1 - Vehicle used for carriage of passengers, comprising not more than 8 seats in addition to the driver's seat with GVW up to 5000kgs
+
+B1 - Jeepney and Passenger Van 
+	M2 - Vehicle used for carriage of passengers, comprising more than 8 seats in addition to the driver's seat with GVW up to 5000kgs
+
+B2 - Light Commercial Vehicle
+	N1 - Vehicles used for the carriage of goods and having up to 3500kgs
+	
+//Non-pro not available here 
+BE - Articulated Passenger Car
+	O1 - Trailers with a maximum GVW not exceeding 750kgs
+	O2 - Trailers with a maximum GVW exceeding 750kgs, but not exceeding 3500kgs
+
+C - Heavy Commercial Vehicle
+	N2 - Vehicles used for the carriage of goods and having a maximum GVW exceeding 3500kgs but not exceeding 12000kgs
+	N3 - Vehicles used for the carriage of goods and having a maximum GVW exceeding 12000kgs
+
+CE - Heavy Ariculated Vehicle
+	O3 - Trailers with a maximum GVW exceeding 3500kgs, but not exceeding 10000kgs
+	O4 - Trailers with a maximum GVW exceeding 10000kgs
+
+D - Buses, Coaches and the likes
+	M3 - Vehicle used for carriage of passengers, comprising more that 8 seats in addition to the driver's seat and having maximum GVW exceeding 5000kgs
+
